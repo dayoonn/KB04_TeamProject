@@ -27,6 +27,25 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
+
+## 주요 기능
+
+<p align="center">
+<img width="1080" alt="image" src="https://github.com/user-attachments/assets/6e6d7ca8-79ab-456f-ac19-d3ea037c5354" />
+<img width="1137" alt="image" src="https://github.com/user-attachments/assets/bf4cb564-9789-49ab-88a5-110abe011344" />
+</p>
+
+## 웹 화면
+
+<p align="center">
+<img width="1139" alt="image" src="https://github.com/user-attachments/assets/089968f9-4630-4f6e-a3ac-b7f054e5d4d4" />
+<img width="1092" alt="image" src="https://github.com/user-attachments/assets/42dc0560-592e-4687-9888-933f0c2b0c2a" />
+<img width="1087" alt="image" src="https://github.com/user-attachments/assets/d56ce4fc-448d-4790-85a5-c4bdd19b52d2" />
+<img width="1090" alt="image" src="https://github.com/user-attachments/assets/de5cefcf-eaf5-4536-bcad-a7284ef92db9" />
+<img width="1086" alt="image" src="https://github.com/user-attachments/assets/ddc806de-0f6f-4079-af79-eb4184efab08" />
+</p>
+
+
 ## 팀원
 <table>
   <tbody>
